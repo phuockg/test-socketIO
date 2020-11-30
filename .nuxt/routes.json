@@ -1,0 +1,23 @@
+[
+  {
+    "name": "chat",
+    "path": "/chat",
+    "component": "D:\\\\30-11-2020\\\\demo-s_io\\\\chat-example-2\\\\Nuxt-Express-Socket.io-Template\\\\pages\\\\chat\\\\index.vue",
+    "chunkName": "pages/chat/index",
+    "_name": "_e5208fac"
+  },
+  {
+    "name": "user-id",
+    "path": "/user/:id?",
+    "component": "D:\\\\30-11-2020\\\\demo-s_io\\\\chat-example-2\\\\Nuxt-Express-Socket.io-Template\\\\pages\\\\user\\\\_id.vue",
+    "chunkName": "pages/user/_id",
+    "_name": "_c84b9402"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\30-11-2020\\\\demo-s_io\\\\chat-example-2\\\\Nuxt-Express-Socket.io-Template\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_69290002"
+  }
+]

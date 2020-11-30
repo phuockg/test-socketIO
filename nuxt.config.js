@@ -13,8 +13,8 @@ module.exports = {
     ** Global CSS
     */
     css: ['~/assets/css/main.css'],
-    modules: ['~/io'],
-        env: {
+    // modules: ['~/io'],
+    env: {
           WS_URL: process.env.WS_URL || 'http://localhost:3000'
         }
 }
